@@ -2,7 +2,7 @@
 
 Use dslr camera as webcam on GNU/Linux.
 
-Prerequisites: v4l2, ffmpeg and Gphoto2.
+Prerequisites: v4l2loopback, ffmpeg and Gphoto2.
 
 Execute start.sh with sudo.
 
@@ -13,7 +13,7 @@ Only tested on Manajaro KDE for now.
 
 Usar cámara dslr como una webcam en GNU/Linux.
 
-Prerrequisitos: v4l2, ffmpeg y Gphoto2.
+Prerrequisitos: v4l2loopback, ffmpeg y Gphoto2.
 
 Ejecutar start.sh con sudo.
 
