@@ -17,6 +17,6 @@ Prerrequisitos: v4l2, ffmpeg y Gphoto2.
 
 Ejecutar start.sh con sudo.
 
-Testeado únicamente en Manjaro por ahora.
+Testeado únicamente en Manjaro.
 
 Uso de v4l2, Gphoto2 y ffmpeg para captura de imagen desde cámara dslr y reenvío en forma de video a una cámara virtual (Por defecto en este script la 7).
